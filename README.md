@@ -14,6 +14,8 @@
 - [chem.libretexts.org](https://chem.libretexts.org/Bookshelves/General_chemistry) - Wide variety and good structure Also, Chemistry by C. E. Mortimer covers a lot
 - [Hank Green](https://www.youtube.com/watch?v=FSyAehMdpyI&list=PLG61LF8I_OXoh2mhx2YNY9s4ekXiriMAf)
 - [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
+- [How to Interpret POSS Spectra](https://silsesquioxane.blogspot.com/p/spectra-of-silsesquioxanes.html) - Guide to 29Si NMR, FTIR, and mass spectra of polyhedral oligomeric silsesquioxanes (POSS).
+- [Silsesquioxane Nomenclature](https://silsesquioxane.blogspot.com/2020/08/naming-of-silsesquioxane.html) - Introduction to the M, D, T, and Q notation and to the naming of polyhedral silsesquioxane cages.
 
 ## Books
 - [Addison Ault, Techniques and Experiments for Organic Chemistry](https://archive.org/details/techniquesexperi0000ault_4ed)
