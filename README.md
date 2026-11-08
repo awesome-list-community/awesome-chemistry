@@ -25,6 +25,7 @@
 - [ACS (American Chemical Society)](https://www.acs.org/content/acs/en/education/whatischemistry.html)
 
 ## Resources
+- [Calculation Hub Dilution Calculator](https://calculation-hub.com/chemistry/dilution) - Free educational calculator for C1V1 = C2V2, ratio dilutions, and serial dilutions, with matching-unit and final-volume explanations.
 - [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)
 - [Some NASA EM Resources](https://science.nasa.gov/ems/01_intro)
 - [The best periodic table online (probably)](https://ptable.com/?lang=en#Properties)
